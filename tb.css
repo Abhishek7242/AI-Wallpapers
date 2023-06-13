@@ -28,7 +28,7 @@ body{
 
 .imgbox{
     width: 217px;
-height: 300px;
+height: 335px;
 margin: 30px 0;
 display: flex;
 border-radius: 9px;
@@ -37,7 +37,7 @@ justify-content: center;align-items: center;
 }
 .size{
     width:210px;
-    height:267px;
+    height:300px;
 border-radius: 9px;
 
 }
